@@ -1,0 +1,12 @@
+{
+  "DATABASE_HOST" : "localhost",
+  "DATABASE_PORT" : 3306,
+  "DATABASE_USERNAME" : "root",
+  "DATABASE_PASSWORD" : "test",
+  "SCHEMA_NAME" : "dis_exam_henriette_lillehagen",
+  "CACHE_TTL": 2600,
+  "ENCRYPTION" : true,
+  "ENCRYPTIONKEY":"XEHIJKLMONIN",
+  "SALT": "henriPenri"
+
+}
